@@ -2,6 +2,9 @@
 
 This project provides an API with two endpoints, one which retrieves all the 250 known countries and one which is given an array of integers and finds the second largest integer in the specific array.
 
+### Technologies Used: 
+ASP.Net Core 8, EntityFramework - FluentApi, MS SQL Server
+
 APIs Used: [RestCountries](https://restcountries.com/)
 
 ---
