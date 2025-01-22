@@ -87,4 +87,4 @@ Paste under "AllowedHosts": "*",:
   "DefaultConnection": "YOUR_CONNECTION_STRING"
 }
   ```
-# You are ready to launch the project.
+# Enjoy the project.
