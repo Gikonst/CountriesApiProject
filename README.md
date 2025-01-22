@@ -2,7 +2,7 @@
 
 This project provides an API with two endpoints, one which retrieves all the 250 known countries and one which is given an array of integers and finds the second largest integer in the specific array.
 
-APIs Used: [RestCountries]([url](https://restcountries.com/))
+APIs Used: [RestCountries]([https://restcountries.com/])
 
 ---
 
