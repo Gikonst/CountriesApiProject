@@ -7,7 +7,7 @@ APIs Used: [RestCountries](https://restcountries.com/)
 ---
 
 ## Endpoints
-### Countries
+### 1. Countries
 
 **Method**:  
 `GET`
@@ -50,7 +50,7 @@ APIs Used: [RestCountries](https://restcountries.com/)
 **URL**:  
 https://localhost:7299/api/Countries
 
-### Second Largest
+### 2. Second Largest
 
 **Method**:  
 `Post`
