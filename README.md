@@ -13,7 +13,7 @@ APIs Used: [RestCountries](https://restcountries.com/)
 `GET`
 
 - Retrieves all 250 countries from the Rest Countries API and uses a DTO to present only their common names, capitals and borders.
-- Saves the response to a Database Table using MS SQL Server and utilizes caching for faster responses.
+- Saves the response to a database using MS SQL Server and utilizes caching for faster responses.
   
 **Example Result**:
 ```json
