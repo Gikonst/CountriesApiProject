@@ -77,7 +77,7 @@ https://localhost:7299/api/SecondLargest
 ## Setup
 
 1. Clone the repository:
-https://github.com/Gikonst/ApiAggregationAssignment.git
+https://github.com/Gikonst/CountriesApiProject.git
 
 2. Go to appsettings.json:
 
