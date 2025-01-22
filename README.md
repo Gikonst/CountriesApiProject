@@ -18,6 +18,7 @@ APIs Used: [RestCountries]([url](https://restcountries.com/))
 **Example Result**:
 ```json
 [
+  {
     "name": {
             "common": "Switzerland"
         },
