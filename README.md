@@ -57,7 +57,7 @@ https://localhost:7299/api/Countries
 
 - Retrieves the array of integers from json body and returns the second largest number from it
 
-**Example**:
+**Request Example**:
 ```json
 {
   "requestArrayObj": [
